@@ -30,7 +30,7 @@ Results: Ranked competitors based on the frequency of mentions to understand com
 10) Recommendations for Actionable Items
 Based on the analysis, here are three actionable items for decision-makers:
 
-1- Improve User Experience and Reduce Latency
+1-Improve User Experience and Reduce Latency
 
 Action: Invest in technological optimizations to reduce latency in order processing and billing.
 Benefit: Enhance customer satisfaction by providing a smoother and faster shopping experience.
